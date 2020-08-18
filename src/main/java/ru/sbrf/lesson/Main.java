@@ -2,6 +2,9 @@ package ru.sbrf.lesson;
 
 public class Main {
     public static void main(String[] args) {
+        Cat cat = new Cat("Васька");
+        Dog dog = new Dog("Шарик");
+
     }
 
     public byte method1(byte by, short sh) {
